@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"0x0",
+		"A File Icon",
+		"BracketHighlighter",
+		"Color Highlight",
+		"LOVELY2D",
+		"LSP",
+		"LSP-lua",
+		"Package Control",
+		"Pretty JSON",
+		"SublimeLinter",
+		"SublimeLinter-luacheck",
+		"SummitLinter",
+		"Theme - Adaptify",
+		"Theme - Arc",
+	],
+	"in_process_packages":
+	[
+	],
+}
