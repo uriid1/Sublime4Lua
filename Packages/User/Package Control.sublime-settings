@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"installed_packages":
 	[
+		"Package Control",
 		"0x0",
 		"A File Icon",
 		"BracketHighlighter",
@@ -9,7 +10,6 @@
 		"LOVELY2D",
 		"LSP",
 		"LSP-lua",
-		"Package Control",
 		"Pretty JSON",
 		"SublimeLinter",
 		"SublimeLinter-luacheck",

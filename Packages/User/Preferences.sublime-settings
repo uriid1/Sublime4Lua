@@ -1,15 +1,7 @@
 {
-	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"color_scheme": "Packages/Dracula-lua/Dracula-lua.tmTheme",
 	"ignored_packages":
 	[
-	// "Vintage",
-	/*"LSP",*/
-	/*"LSP-lua",*/
-	/*"A File Icon",*/
-	/*"SublimeLinter",*/
-	/*"Package Control",*/
-	/*"BracketHighlighter",*/
-	/*"Color Highlight",*/
 	],
 	"theme": "Adaptive.sublime-theme",
 	"font_face": "IBM Plex Mono",
@@ -30,5 +22,5 @@
 	"highlight_line": false,
 	"show_line_endings": false,
 	"index_files": true,
-	"hardware_acceleration": "opengl",
+	// "hardware_acceleration": "opengl",
 }
